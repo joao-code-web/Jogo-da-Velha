@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.bord-wraper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.bord {
+  width: 100px;
+  height: 100px;
+}
+
+.status {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
